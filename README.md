@@ -4,6 +4,7 @@ A DNS sniffing tool which extracts the domain name from dns queries
 
 # How to use
 run the tool with python3 , choose the interface to sniff on and the IP (which works the same as ip.addr in wireshark)
+(does require root privs)
 
 
 ## Disclaimer
